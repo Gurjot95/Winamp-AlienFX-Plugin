@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="alienfx.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="kiss_fft.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LFX2.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LFXDecl.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LFXConfigurator.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBox.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StackWalker.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="window.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="XmlConfig.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="XmlDevices.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Zone.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="callback.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="_kiss_fft_guts.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MyStackWalker.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="alienfx.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="config.cpp" />
+    <ClCompile Include="debug.cpp" />
+    <ClCompile Include="kiss_fft.c" />
+    <ClCompile Include="ListBox.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MyStackWalker.cpp" />
+    <ClCompile Include="Slider.cpp" />
+    <ClCompile Include="StackWalker.cpp" />
+    <ClCompile Include="timer.cpp" />
+    <ClCompile Include="tinystr.cpp" />
+    <ClCompile Include="tinyxml.cpp" />
+    <ClCompile Include="tinyxmlerror.cpp" />
+    <ClCompile Include="tinyxmlparser.cpp" />
+    <ClCompile Include="window.cpp" />
+    <ClCompile Include="XmlConfig.cpp" />
+    <ClCompile Include="XmlDevices.cpp" />
+    <ClCompile Include="Zone.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LightFX.dll" />
+    <None Include="LightFXConfigurator64.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{c545e4ca-e717-4366-ae69-fe4978080ee0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
