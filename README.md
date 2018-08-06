@@ -1,5 +1,5 @@
 # Winamp-AlienFX-Plugin
-A visualization plugin for Winamp that uses the AlienFX device to display beats. Added support for newer models. Original work by Ingrater.
+A visualization plugin for Winamp that uses the AlienFX device to display beats. Added support for newer models and made some new changes with overall improvements. Original work by Ingrater.
 
 Because the original dev made this plugin back in 2009, currently it only supports winamp but I would love if people can help me out so it can work whenever it detects audio from any stream.
 
